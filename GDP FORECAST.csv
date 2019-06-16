@@ -1,4 +1,4 @@
-month,UNRATE,u_lag1,u_lag2,u_lag3,u_lag4,u_lag5,u_lag6,mask_UNRATE,delta_UNRATE,GDP,lnGDP,mask_GDP,delta_GDP,gdp,,1/1/1951 0:00
+Month,UNRATE,u_lag1,u_lag2,u_lag3,u_lag4,u_lag5,u_lag6,mask_UNRATE,delta_UNRATE,GDP,lnGDP,mask_GDP,delta_GDP,gdp,,1/1/1951 0:00
 1/1/1951 0:00,3.7,4.3,4.2,4.2,4.4,4.5,5,1,0,2415.66,0,0,0,2338.51,0.017178949,2/1/1951 0:00
 2/1/1951 0:00,3.4,3.7,4.3,4.2,4.2,4.4,4.5,1,0,,0,0,0,2383.29,0.013490656,3/1/1951 0:00
 3/1/1951 0:00,3.4,3.4,3.7,4.3,4.2,4.2,4.4,1,0,,0,0,0,2415.66,0.01718017,4/1/1951 0:00
